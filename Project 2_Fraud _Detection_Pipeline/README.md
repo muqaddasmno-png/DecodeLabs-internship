@@ -80,6 +80,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn openpy
 4. Make sure the dataset is placed in the same folder as the notebook.
 5. Run the notebook cells in sequence.
 
-## Note
-
-The fraud labels in this project were generated using rule-based conditions for educational machine learning purposes. They do not represent verified real-world fraud cases.
